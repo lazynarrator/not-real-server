@@ -1,33 +1,25 @@
 [
    {
-       "Name":"MarchHare",
-       "IconUrl":"https://github.com/lazynarrator/not-real-server/blob/main/Avatars/av001.jpg",
-	   "Item":"0",
-	   "Amount":"1",
-       "Price":"12"
+   "Name":"MarchHare",
+   "IconUrl":"https://github.com/lazynarrator/not-real-server/blob/main/Avatars/av001.jpg",
+   "Item":0,
+   "Amount":1,
+   "Price":12
    },
 
    {
-       "Name":"PowerGirl",
-       "IconUrl":"https://github.com/lazynarrator/not-real-server/blob/main/Avatars/av002.jpg",
-	   "Item":"1",
-	   "Amount":"5",
-       "Price":"10"
+   "Name":"PowerGirl",
+   "IconUrl":"https://github.com/lazynarrator/not-real-server/blob/main/Avatars/av002.jpg",
+   "Item":1,
+   "Amount":5,
+   "Price":10
    },
 
    {
-       "Name":"NightLady",
-       "IconUrl":"https://github.com/lazynarrator/not-real-server/blob/main/Avatars/av003.jpg",
-	   "Item":"2",
-	   "Amount":"2",
-       "Price":"4"
-   },
-   
-   {
-       "Name":".....",
-	   "IconUrl":".....",
-	   "Item":".....",
-	   "Amount":".....",
-       "Price":"....."
+   "Name":"NightLady",
+   "IconUrl":"https://github.com/lazynarrator/not-real-server/blob/main/Avatars/av003.jpg",
+   "Item":2,
+   "Amount":2,
+   "Price":4
    }
 ]
