@@ -1,0 +1,15 @@
+[
+   {
+   "Name":"Alarm1",
+   "Date":23.04.22,
+   "Time":08:00:00,
+   "Note":"Wake up"
+   },
+
+   {
+   "Name":"Alarm2",
+   "Date":24.04.22,
+   "Time":08:05:00,
+   "Note":"Wake up!!!"
+   }
+]
